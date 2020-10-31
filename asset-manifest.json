@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cats-roller/static/css/main.8473bdcf.chunk.css",
+    "main.js": "/cats-roller/static/js/main.0495f9ac.chunk.js",
+    "main.js.map": "/cats-roller/static/js/main.0495f9ac.chunk.js.map",
+    "runtime-main.js": "/cats-roller/static/js/runtime-main.e8dacc7d.js",
+    "runtime-main.js.map": "/cats-roller/static/js/runtime-main.e8dacc7d.js.map",
+    "static/js/2.3b686213.chunk.js": "/cats-roller/static/js/2.3b686213.chunk.js",
+    "static/js/2.3b686213.chunk.js.map": "/cats-roller/static/js/2.3b686213.chunk.js.map",
+    "static/js/3.fcb5f416.chunk.js": "/cats-roller/static/js/3.fcb5f416.chunk.js",
+    "static/js/3.fcb5f416.chunk.js.map": "/cats-roller/static/js/3.fcb5f416.chunk.js.map",
+    "index.html": "/cats-roller/index.html",
+    "static/css/main.8473bdcf.chunk.css.map": "/cats-roller/static/css/main.8473bdcf.chunk.css.map",
+    "static/js/2.3b686213.chunk.js.LICENSE.txt": "/cats-roller/static/js/2.3b686213.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8dacc7d.js",
+    "static/js/2.3b686213.chunk.js",
+    "static/css/main.8473bdcf.chunk.css",
+    "static/js/main.0495f9ac.chunk.js"
+  ]
+}
